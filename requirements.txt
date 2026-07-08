@@ -9,6 +9,7 @@ matplotlib
 networkx
 numpy
 opencv-python
+openvino
 pandas
 Pillow
 pyparsing
